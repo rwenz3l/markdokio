@@ -1,0 +1,9 @@
+{
+    "name": "r.wenzel/docs",
+    "type": "project",
+    "require": {
+        "elvanto/litemoji": "^2.0",
+        "league/commonmark": "^1.0",
+        "league/commonmark-extras": "^1.1"
+    }
+}
